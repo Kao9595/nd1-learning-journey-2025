@@ -22,7 +22,7 @@ A critical aspect of this research involves analyzing the performance trade-offs
 
 <img width="533" height="457" alt="image" src="https://github.com/user-attachments/assets/bd5e7cbb-f199-4e91-932c-250a192b3412" />
 
-_Figure 1: Three-Tier IoT Architecture Diagram (Perception, Network, and Application Layers)_
+>_Figure: Three-Tier IoT Architecture Diagram (Perception, Network, and Application Layers)_
 
 **Layer Breakdown and Functionality:**
 
@@ -40,7 +40,7 @@ The research emphasizes **Hardware-Software Co-design** strategies to optimize s
 
 ![](https://media.licdn.com/dms/image/v2/D4D22AQGIVHTeMgeLcA/feedshare-shrink_2048_1536/B4DZruzO9_KEAk-/0/1764942999675?e=2147483647&v=beta&t=m_uuixdEioIO2jjGqZ_-tRV32k_Mw5XHTKFQ6Fqw9LI)
 
-_Figure 2: Hardware Comparison: ESP32, STM32, and Raspberry Pi for Industrial Applications_
+>_Figure: Hardware Comparison: ESP32, STM32, and Raspberry Pi for Industrial Applications_
 
 **Hardware Platform Analysis:**
 
@@ -67,7 +67,7 @@ We prioritize Network Topology and Security by utilizing star and mesh configura
 
 ![](https://miro.medium.com/v2/resize:fit:603/1*jO4VeZHIRMOSeeAVHPeKbQ.png)
 
-_Figure 3: Industrial Networking Topology and Communication Protocols Comparison_
+>_Figure: Industrial Networking Topology and Communication Protocols Comparison_
 
 **Protocol & Topology Analysis:**
 
@@ -89,7 +89,7 @@ Adopting modern engineering best practices ensures that software remains maintai
 
 ![](https://www.beningo.com/wp-content/uploads/2023/12/CI_CD-Process-1024x716.webp)
 
-Figure 4:_Software Development Lifecycle and CI/CD Pipeline for Embedded Systems_
+>Figure:_Software Development Lifecycle and CI/CD Pipeline for Embedded Systems_
 
 **Software Stack Analysis:**
 
